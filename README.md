@@ -72,6 +72,7 @@ npm run start-api
 The application will be available at http://localhost:5173
 
 ### Project Structure
+```bash
 SkyGrouper/
 ├── api/                 # Backend Flask application
 ├── public/             # Public assets
@@ -82,7 +83,7 @@ SkyGrouper/
 │   └── main.tsx        # Application entry point
 ├── package.json
 └── README.md
-
+```
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details
