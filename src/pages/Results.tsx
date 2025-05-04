@@ -23,7 +23,7 @@ const mockResults = [
     id: 5,
     rank: 2,
     name: 'Prague, Czech Republic',
-    image: 'https://images.pexels.com/photos/125137/pexels-photo-125137.jpeg',
+    image: 'https://images.pexels.com/photos/2346216/pexels-photo-2346216.jpeg',
     description: 'Stunning architecture, rich history, affordable prices, and great beer.',
     interests: ['History', 'Culture', 'Nightlife'],
     price: '€',

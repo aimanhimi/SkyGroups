@@ -22,7 +22,7 @@ const mockDestinations = [
   {
     id: 2,
     name: 'Paris, France',
-    image: 'https://images.pexels.com/photos/699466/pexels-photo-699466.jpeg',
+    image: 'https://images.pexels.com/photos/1461974/pexels-photo-1461974.jpeg', // Updated Paris image
     description: 'The city of love with iconic landmarks, world-class museums, and exquisite cuisine.',
     interests: ['Culture', 'History', 'Food'],
     price: '€€€',
@@ -52,7 +52,7 @@ const mockDestinations = [
   {
     id: 5,
     name: 'Prague, Czech Republic',
-    image: 'https://images.pexels.com/photos/125137/pexels-photo-125137.jpeg',
+    image: 'https://images.pexels.com/photos/2346216/pexels-photo-2346216.jpeg', // Updated to a new Prague image
     description: 'Stunning architecture, rich history, affordable prices, and great beer.',
     interests: ['History', 'Culture', 'Nightlife'],
     price: '€',
